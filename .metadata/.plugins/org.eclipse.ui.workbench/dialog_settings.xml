@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="workingset_selection_history">
+		<item value="DataStructures"/>
+	</list>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="267" key="DIALOG_X_ORIGIN"/>
+		<item value="45" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="945" key="dialogHeight"/>
+		<item value="1162" key="dialogWidth"/>
+		<list key="textEntries">
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+		</list>
+		<list key="orderedElements">
+			<item value="org.eclipse.egit.ui.RepositoriesView"/>
+			<item value="org.eclipse.egit.ui.RepositoriesViewClone"/>
+			<item value="org.eclipse.egit.ui.GitRepositoryExploring"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.commands"/>
+			<item value="org.eclipse.ui.perspectives"/>
+		</list>
+		<list key="textArray">
+			<item value="git"/>
+			<item value="clo"/>
+			<item value="gi"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>
